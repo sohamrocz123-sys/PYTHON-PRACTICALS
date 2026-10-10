@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "Images": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".bmp",
+      ".webp",
+      ".svg"
+    ],
+    "Documents": [
+      ".pdf",
+      ".docx",
+      ".doc",
+      ".txt",
+      ".xlsx",
+      ".pptx",
+      ".csv"
+    ],
+    "Archives": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz"
+    ],
+    "Installers": [
+      ".exe",
+      ".msi",
+      ".dmg",
+      ".pkg"
+    ],
+    "Videos": [
+      ".mp4",
+      ".mkv",
+      ".mov",
+      ".avi"
+    ],
+    "Audio": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".aac"
+    ],
+    "Code": [
+      ".py",
+      ".js",
+      ".html",
+      ".css",
+      ".json"
+    ]
+  },
+  "output_mode": "next_to_file",
+  "single_root_folder": "",
+  "include_subfolders": false,
+  "auto_sort_on_drop": true,
+  "watch_folder_path": "C:\\Users\\Vidyasaga\\Downloads",
+  "watch_enabled": true,
+  "theme_mode": "Dark"
+}
